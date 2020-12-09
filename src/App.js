@@ -43,9 +43,18 @@ class App extends Component {
     console.log(this.state.questionId);
     console.log(this.state.cases.length);
     if (this.state.questionId < this.state.cases.length - 1) {
-      this.setState((prevState) => ({ questionId: this.state.questionId + 1 }));
+      this.setState((prevState) => ({
+        isFlipped: !prevState.isFlipped,
+        questionId: this.state.questionId + 1,
+      }));
+      
+
     } else {
-      this.setState((prevState) => ({ isStart: true, questionId: 0 }));
+      this.setState((prevState) => ({
+        isStart: true,
+        questionId: 0,
+        
+      }));
     }
   };
 
