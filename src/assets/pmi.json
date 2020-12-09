@@ -1,0 +1,39 @@
+
+[
+{"question": "ACP" ,
+"answer": "Agile Certified Practitioner"
+},
+{"question": "Acceptance Test Driven Development" ,
+"answer": "A method used to communicate with business customers, developers, and testers before coding begins."
+},
+{"question":  "Active Listening",
+"answer":  "To focus on what is said and provide feedback to communicate understanding"
+},
+{"question":  "Adaptive Leadership",
+"answer": "A leadership style that helps teams to thrive and overcome challenges throughout a project."
+},
+{"question":  "Affinity Estimation",
+"answer":  "A method used to quickly place user stories into a comparable-sized group."
+},
+{"question":  "Agile" ,
+"answer": "To develop a goal through periodic experimentation in order to fulfill the need of a complex decision."
+},
+{"question":  "Agile Adaption",
+"answer":  "To adapt the project plan continuously through retrospectives in order to maximize value creation during the planning process."
+},
+{"question":  "Agile Coaching",
+"answer":  "To help achieve goals that is either personal or organizational." 
+},
+{"question":  "Agile Experimentation",
+"answer":  "To use the empirical process, observation, and spike introduction while executing a project to influence planning."
+},
+{"question":  "Agile Manifesto",
+"answer": "A statement that reflects Agile Philosophy that includes: individuals and interactions over processes and tools, working software over comprehensive documentation, customer collaboration over contract negotiation, and responding to changes over following a plan."
+},
+
+{"question":  "Agile Manifesto Principles",
+"answer":  "A document that describes the twelve principles of the Agile Manifesto."
+}
+
+]
+
